@@ -2,7 +2,7 @@
 
 Active Directory Attacking &amp; Defending Tools..!!  
 
-For Red and Blue Teamer
+For Red and Blue Teamers.
 
 
 PS C:\AD\x64> .\mimikatz.exe
